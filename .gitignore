@@ -1,0 +1,55 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Project outputs and generated artifacts
+outputs/
+db/
+models/*.pkl
+models/*.joblib
+models/*.sav
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+ARCHITECTURE.md
+DASHBOARD_README.md
+DOCUMENTATION_INDEX.md
+GITHUB_GUIDE.md
+INTERVIEW_QA.md
+PROJECT_ARCHITECTURE_SUMMARY.md
+PROJECT_COMPLETION.md
+QUICKSTART.md
+REQUIREMENTS_MAPPING.md
+SYSTEM_DESIGN.md
