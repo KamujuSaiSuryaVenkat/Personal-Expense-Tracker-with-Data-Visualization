@@ -1,6 +1,25 @@
-# 💰 Personal Expense Tracker
+<div align="center">
 
-A comprehensive Python-based expense tracking system with data analysis, categorization, and visualization capabilities.
+<h1 style="font-size: 2.8rem; margin-bottom: 0.2rem; color: #0f172a; text-shadow: 2px 2px 0 #cbd5e1, 4px 4px 0 #94a3b8, 6px 6px 14px rgba(15, 23, 42, 0.25);">
+💰 Personal Expense Tracker
+</h1>
+
+<p style="font-size: 1.1rem; max-width: 900px; margin: 0 auto 1rem auto; color: #334155;">
+A comprehensive Python expense platform for data cleaning, smart categorization, database storage, analytics, visual reporting, and an advanced interactive dashboard.
+</p>
+
+<p>
+<strong>Built for productivity:</strong> fast setup, reproducible outputs, clear insights, and a complete end-to-end workflow from raw CSV to polished dashboard.
+</p>
+
+</div>
+
+## ⚡ Quick Actions
+
+- Run the full pipeline: `python main.py`
+- Launch the dashboard: `python src/dash_dashboard.py`
+- Review generated outputs: `outputs/`
+- See the full architecture: [ARCHITECTURE.md](ARCHITECTURE.md)
 
 ## 🎯 Project Overview
 
